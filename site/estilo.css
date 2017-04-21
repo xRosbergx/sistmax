@@ -100,11 +100,11 @@ nav.navbar-transparente {
 	color: white;
 	border-radius: 500px;
 	-webkit-border-radius: 500px;
-    -moz-border-radius: 500px;
-    padding: 10px 35px;
-    margin: 0px 15px;
-    text-transform: uppercase;
-    transition: background 0.4s, color 0.4s;
+       -moz-border-radius: 500px;
+       padding: 10px 35px;
+       margin: 0px 15px;
+       text-transform: uppercase;
+       transition: background 0.4s, color 0.4s;
 }
 .btn-roxo {
 	background-color: #7c25f8;
@@ -187,7 +187,7 @@ footer {
 
 /* ========================= Tipografia ======================== */
 h1 {
-	font-size: 110px;
+	font-size: 100px;
 	font-weight: 900;
 	letter-spacing: -0.03em;
 	margin-bottom: 50px;
