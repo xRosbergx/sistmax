@@ -13,7 +13,8 @@ body {
 	/*background: linear-gradient(purple 10% ,#0d47a1);
 	background-image: linear-gradient(45deg,#0a1855,#da0024 100%); 
 	background: url('../imagens/fundo8.png') #212121;*/
-	background-image: linear-gradient(45deg,#0a1855 0,purple 100%);    
+	background-color:#4fd8e8;
+	background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
 	background-attachment: fixed;			
 	webkit-background-size:cover;
 	-moz-background-size:cover;
